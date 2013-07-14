@@ -18,3 +18,7 @@ class CustomImageExtension extends \Heyday\SilverStripe\ImageExtension
     }
 }
 ```
+
+##License
+
+SilverStripe Image Extension is licensed under an [MIT license](http://heyday.mit-license.org/)
